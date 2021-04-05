@@ -1,5 +1,5 @@
 ---
-description: 这里是我阅读文献的汇总
+description: 所有阅读文献翻译以及笔记汇总
 ---
 
 # 描述
