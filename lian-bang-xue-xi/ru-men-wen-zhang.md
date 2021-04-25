@@ -1,4 +1,4 @@
-# 联邦机器学习：概念和应用
+# paper1-联邦机器学习：概念和应用
 
 联邦机器学习：概念和应用（[原文](https://github.com/zltshadow/zltshadow.github.io/blob/master/CDN/论文/研究方向/联邦学习/Federated%20Machine%20Learning%20Concept%20and%20Applications.pdf)）
 
